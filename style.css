@@ -18,10 +18,6 @@ body {
     border-bottom: 5px solid #cfbaf0;
 }
 
-.blue-border {
-    border: 1px dotted blue;
-}
-
 .card-details {
     text-align: center;
 }
